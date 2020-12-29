@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="47.101.57.60" id="3c8b40b1-6f50-4202-b7da-dfe2713f0e4c" port="7200" customName="SFTP@zhaojing" nameFormat="CUSTOM" username="jingzhao" />
+    </configs>
+  </component>
+</project>

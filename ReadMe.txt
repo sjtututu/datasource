@@ -1,0 +1,15 @@
+Tushare：源数据下载
+Wind：源数据下载
+Choice：源数据下载
+Engine：通用py文件
+MarketData：历史行情数据
+MarketInfo：市场基础数据
+FactorData：多因子模型数据
+Logging：日志统一管理工具
+SetUp：文件多进程运行程序
+TradeDate：数据更新起止日期(自动更新)
+选股条件:
+1.回测当日的上市股票列表
+2.剔除ST,*ST股票
+3.剔除当日停牌股票
+4.上市不超过半年的股票

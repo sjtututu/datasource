@@ -1,0 +1,6 @@
+﻿T_DataUpdate_Day：股票期货日线数据
+T_DataUpdate_Min：股票期货分钟数据
+T_DataUpdate_Tick：股票期货Tick数据
+T_DataUpdate_Fina：股票财务报告数据
+T_DataUpdate_Opt：期权日线分钟线数据
+T_MarkeData_Filling：填充缺失行情数据
